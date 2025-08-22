@@ -11,7 +11,6 @@ Students can view dashboards, upcoming assignments, access course materials, upl
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Environment Setup](#environment-setup)
 - [Database Migrations](#database-migrations)
 - [Usage](#usage)
 - [Authentication](#authentication)
@@ -81,7 +80,7 @@ Students can view dashboards, upcoming assignments, access course materials, upl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/lms.git
+git clone https://github.com/afham-haleema/lms.git
 cd lms
 ```
 
@@ -105,13 +104,6 @@ Run migrations to create tables:
 ```bash
 php artisan migrate
 ```
-
-Seed data (optional):
-
-```bash
-php artisan db:seed
-```
-
 ---
 
 ## Usage
