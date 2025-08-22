@@ -59,23 +59,21 @@ Students can view dashboards, upcoming assignments, access course materials, upl
 ### Screenshots
 
 
-![Welcome](../lms/images/welcome.png)
+### Screenshots
+
+![Welcome](images/welcome.png)
 
 ## Student view
 
-![Dashboard](../lms/images/student_dashboard.png)
-
-![courses](../lms/images/student_courses.png)
-
-![Assignments](../lms/images/assignment.png)
-
-![Dashboard](../lms/images/student_dashboard.png)
+![Dashboard](images/student_dashboard.png)
+![Courses](images/student_courses.png)
+![Assignments](images/assignment.png)
 
 ## Instructor view
 
-![materials](../lms/images/course_materials.png)
+![Course Materials](images/course_materials.png)
+![Submission](images/submission.png)
 
-![materials](../lms/images/submission.png)
 ---
 
 ## Installation
